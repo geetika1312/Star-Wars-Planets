@@ -1,0 +1,58 @@
+.planet-card {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .planet-card .header {
+    font-weight: bold;
+  }
+  
+  .planet-card .description {
+    margin-top: 10px;
+  }
+  
+  .planet-card button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .planet-card button:hover {
+    background-color: #0056b3;
+  }
+  
+  .planet-card ul {
+    margin-top: 10px;
+    padding-left: 20px;
+  }
+
+  
+  /* Define your CSS styles here */
+
+.person-card {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .person-card .header {
+    font-weight: bold;
+  }
+  
+  .person-card .description {
+    margin-top: 10px;
+  }
+  
+  .person-card p {
+    margin-bottom: 5px;
+  }
+  
+  /* Add more styles as needed */
+  
